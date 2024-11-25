@@ -1,2 +1,2 @@
 # medical_charges
-Predict medical charges from patients' features
+As a Data Scientist at a top Health Insurance company, predict customer healthcare costs using the power of machine learning. Develop a regression model using the insurance.csv dataset to predict charges. Evaluate the model's accuracy using the R-Squared Score. Then, apply the model to estimate predicted_charges for unseen data in validation_dataset.csv. R squared score must be at minimum 0.65 for the model to be successful.
